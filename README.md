@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👀 Check out my website: **https://nikhil-795.github.io/portfolio.io/**
 - 🌱 I’m currently learning **React Native and Azure**
 - 💬 Ask me about_  **java**
@@ -14,16 +14,6 @@
 </a><a href="https://instagram.com/@nikhil_bhatt21_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nikhil_bhatt21_" height="23" width="27" /></a>
 </p>
 <br>
-<br>
-
-
-
-<!---
-nikhil-795/nikhil-795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 
 Hey! I am Nikhil, a passionate self-taught web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. My key forte is in backend development.
 I  am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
