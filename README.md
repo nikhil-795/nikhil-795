@@ -11,7 +11,7 @@
 </a>
 <a href="https://www.facebook.com/nikhil.bhatt.391">
   <img align="left" alt="Nikhil| Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a><a href="https://instagram.com/@nikhil_bhatt21_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nikhil_bhatt21_" height="23" width="27" /></a>
+</a><a href="https://instagram.com/@nikhil_bhatt21_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nikhil_bhatt21_" height="23" width="27" /></a> 
 </p>
 <br>
 
@@ -36,9 +36,9 @@ CSS          11 mins         ▒░░░░░░░░░░░░░░░░
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nikhil-795&theme=tokyonight&show_icons=true" /> 
 
-
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yayady_apex" height="24" width="28" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-795&theme=tokyonight&show_icons=true" />
- 
+ <img align="cen" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yayady_apex" height="24" width="28" /></a>
  <br><br><br><br><br>
  <br><br><br><br><br>
  <br>
